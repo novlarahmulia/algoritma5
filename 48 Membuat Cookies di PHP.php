@@ -9,6 +9,6 @@ setcookie($cookie_name, $cookie_value, $cookie_expire, "/"); // " / " berarti co
 if (!isset($_COOKIE[$cookie_name])) {
     echo "cookie '" . $cookie_name . "' belum diatur!";
 } else {
-    echo "cookie '" . $cookie_name . "' sudah diatur!"; 
+    echo "cookie '" . $cookie_name . "' sudah diaturr!"; 
 }
 ?>
