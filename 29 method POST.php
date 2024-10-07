@@ -14,7 +14,7 @@
   
 	 <?php
 	 if ($_POST) {
-		 echo "Nama: novla " . $_POST["nama"];
+		 echo "Nama: novlaa " . $_POST["nama"];
 		 echo "<br/>";
 		 echo "Umur: 17 tahun " . $_POST["umur"];
 	 }
