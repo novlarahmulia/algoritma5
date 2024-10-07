@@ -46,7 +46,7 @@ function jumlahkan() {
 }
 
 echo jumlahkan(1, 2, 3, 4); // Output: 10
-echo "<p><strong> by : novla rahmulia";
+echo "<p><strong> by : novlaa rahmulia";
 ?>
 
 
