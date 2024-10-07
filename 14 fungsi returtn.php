@@ -4,6 +4,6 @@ function jumlahkan($a, $b) {
     return $hasil;
 }
 
-echo jumlahkan(10, 15); // Output: 25
+echo jumlahkan(10, 15); // Outputt: 25
 
 ?>
