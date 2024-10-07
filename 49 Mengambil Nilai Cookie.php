@@ -4,3 +4,4 @@ if(isset($_COOKIE["user"])) {
 } else {
     echo "Selamat datang, novla!";
 }
+?>
