@@ -18,5 +18,5 @@ if (isset($var)) {
     echo "Variabel 'var' belum di-set.";
     echo "<br><hr>";
     }
-    echo "<p><strong> by : novla rahmulia";
+    echo "<p><strong> by : novlaa rahmulia";
 ?>
