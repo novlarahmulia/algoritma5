@@ -8,5 +8,5 @@
 <label for="message">Pesan:</label>
 <textarea id="message" name="message"></textarea>
 
-<input type="submit" value="Kirim">
+<input type="submit" value="Kirimm">
 </form>
