@@ -15,6 +15,6 @@ $saya = "novla rahmulia";
 $ucapanSalam = "Selamat pagi";
 // memanggilnya lagi tanpa mengisi parameter salam
 perkenalan($saya);
-echo "<p><strong> by : novla rahmulia";
+echo "<p><strong> by : novlaa rahmulia";
 
 ?>
