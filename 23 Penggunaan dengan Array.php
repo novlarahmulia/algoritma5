@@ -12,5 +12,5 @@ if (isset($array["alamat"])) {
 } else {
     echo "<br><hr>Kunci 'alamat' ada di array.";
 }
-echo "<p><strong> by : novla rahmulia";
+echo "<p><strong> by : novlaa rahmulia";
 ?>
