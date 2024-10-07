@@ -12,5 +12,5 @@ if (isset($var4) && !empty($var4)) {
 } else {
     echo "<br><hr>Variabel 'var4' tidak kosong sudah di-set.";
 }
-echo "<p><strong> by : novla rahmulia";
+echo "<p><strong> by : novlaa rahmulia";
 ?>
