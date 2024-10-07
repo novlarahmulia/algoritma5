@@ -8,5 +8,5 @@ $bulan = nama_bulan(3);
 echo '<pre>'; print_r($bulan);
 $bulan = nama_bulan(2);
 echo '<pre>'; print_r($bulan);
-echo "<p><strong> by : novla rahmulia";
+echo "<p><strong> by : novlaa rahmulia";
 ?>
