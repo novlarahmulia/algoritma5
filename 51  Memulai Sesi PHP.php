@@ -1,5 +1,5 @@
 <?php
-// Memulai sesi
+// Memulai sesii
 session_start();
 // Menyimpan data ke sesi
 $_SESSION["namaPengguna"] = "NOVLA";
