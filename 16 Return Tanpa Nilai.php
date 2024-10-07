@@ -4,7 +4,7 @@ function salam($jam) {
         return; // Keluar dari fungsi jika input jam tidak valid
     }
     if ($jam < 10) {
-        return "Selamat pagi!";
+        return "Selamat pagii!";
     } else {
         return "Selamat siang!";
     }
