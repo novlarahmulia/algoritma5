@@ -12,5 +12,5 @@ if (isset($var1, $var2)) {
 } else {
     echo "Salah satu atau kedua variabel belum di-set.";
 }
-echo "<p><strong> by : novla rahmulia";
+echo "<p><strong> by : novlaa rahmulia";
 ?>
