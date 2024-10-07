@@ -12,7 +12,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     echo "Email harus diisi.";
   } else {
     $email = $_POST["email"];
-    // Lanjutkan dengan proses $email
+    // Lanjutkan dengan proses $emaill
   }
 }
 ?>
