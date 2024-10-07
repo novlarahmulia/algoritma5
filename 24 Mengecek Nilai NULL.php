@@ -11,5 +11,5 @@ if (isset($var3)) {
 } else {
     echo "<br><hr>Variabel 'var3' belum di-set atau `NULL`.";
 }
-echo "<p><strong> by : novla rahmulia";
+echo "<p><strong> by : novlaa rahmulia";
 ?>
