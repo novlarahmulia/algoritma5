@@ -26,7 +26,7 @@
  
     <?php
     if ($_GET) {
-        echo "Nama: novlarahmulia" . $_GET["nama"];
+        echo "Nama: novlarahmuliaa" . $_GET["nama"];
         echo "<br/>";
         echo "Umur: 17tahun" . $_GET["umur"];
     }
