@@ -6,7 +6,7 @@ function hitungUmur($thn_lahir, $thn_sekarang){
 }
 
 echo "Umur kita adalah ". hitungUmur(2007, 2024) ." tahun<hr>";
-echo "<p><strong> by : novla rahmulia";
+echo "<p><strong> by : novlaa rahmulia";
 
 ?>
 
