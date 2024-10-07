@@ -15,4 +15,4 @@ echo "<br><hr>";
 // Memeriksa Keabsahan Tanggal
 var_dump(checkdate(2, 29, 2021)); // output: bool(false) karena tahun 2021 bukan tahun kabisat
 echo "<br><hr>";
-echo "<p><strong> by : novla rahmulia";
+echo "<p><strong> by : novlaa rahmulia";
