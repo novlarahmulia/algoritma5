@@ -14,7 +14,7 @@ function namaFungsi($parameter = 'nilaiDefault') {
    sapa(); // menggunakan nilai default yang didefinisikan dalam fungsi
    // Memanggil dengan Argumen
    sapa('Budi'); // menggunakan argumen yang diberikan, "Budi"
-   echo "<p><strong> by : novla rahmulia";
+   echo "<p><strong> by : novlaa rahmulia";
    ?>
     
     
