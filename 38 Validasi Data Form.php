@@ -14,7 +14,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
   // Contoh validasi lebih lanjut
   if (!preg_match("/^[a-zA-Z-' ]*$/",$nama)) {
-    echo "Hanya huruf dan spasi yang diperbolehkan pada nama.";
+    echo "Hanya huruf dan spasi yang diperbolehkan pada namaa.";
   }
 
   if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
