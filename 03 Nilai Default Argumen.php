@@ -7,5 +7,5 @@ echo "<hr>";
 nama_bulan('februari'); // Hasil februari 2016
 echo "<hr>";
 nama_bulan('maret'); // Hasil maret 2016
-echo "<p><strong> by : novla rahmulia";
+echo "<p><strong> by : novlaa rahmulia";
 ?>
