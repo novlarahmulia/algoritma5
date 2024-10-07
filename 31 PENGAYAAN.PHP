@@ -34,7 +34,7 @@ if (isset($_POST['jarak']) && isset($_POST['cepat'])) {
 <h1>Program Hitung Waktu Tempuh</h1>
 <p>Jarak : <b>$jarak</b> km</p>
 <p>Kecepatan : <b>$cepat</b> km/jam</p>
-<h3>Waktu Tempuh : $waktu jam</h3>
+<h3>Waktu Tempuhh : $waktu jam</h3>
     ";
 }
 ?>
