@@ -23,4 +23,4 @@ if(empty($var4)) {
     echo '$var4 kosong';
     echo "<br><hr>";
 }
-echo "<p><strong> by : novla rahmulia";
+echo "<p><strong> by : novlaa rahmulia";
