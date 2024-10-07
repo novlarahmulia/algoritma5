@@ -1,4 +1,4 @@
-
+<?php
 $to = 'tujuan@example.com'; // Ganti dengan alamat email tujuan
 $subject = 'Pesan dari Website';
 $headers = "From: " . $email . "\r\n";
@@ -10,3 +10,4 @@ if (mail($to, $subject, $message, $headers)) {
 } else {
     echo "Pesan gagal dikirim.";
 }
+?>
