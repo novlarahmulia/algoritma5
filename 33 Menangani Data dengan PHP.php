@@ -6,5 +6,5 @@ if ($_SERVER["REQUEST_METHOD"] == "GET") {
 
     echo "Nama: novla rahmulia " . $nama . "<br>";
     echo "Email: rahmulianovla@gmail.com" . $email;
-}
+
 ?>
