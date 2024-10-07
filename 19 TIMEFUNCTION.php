@@ -29,7 +29,7 @@ if (checkdate(02, 29, 2023)) {
     echo "Tanggal tidak valid!";
   }
   echo "<br><hr>";
-  echo "<p><strong> by : novla rahmulia";
+  echo "<p><strong> by : novlaa rahmulia";
   
 
 ?>
