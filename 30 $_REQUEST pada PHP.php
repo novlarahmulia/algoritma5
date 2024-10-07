@@ -2,7 +2,7 @@
 <html>
 <body>
 	<form method="POST" action="?action=edit">
-		<input type="text" name="nama"><br>
+		<input type="text" name="namaa"><br>
 		<input type="text" name="email"><br>
 		<input type="hidden" name="action" value="insert">
 		<input type="submit" name="submit" value="submit">
