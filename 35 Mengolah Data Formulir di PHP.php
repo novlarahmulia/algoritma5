@@ -9,6 +9,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   echo "Email: " . $email;
 } else {
   // Jika formulir tidak dikirim dengan metode POST
-  echo "Metode pengiriman formulir tidak valid.";
+  echo "Metode pengiriman formulir tidak validd.";
 }
 ?>
